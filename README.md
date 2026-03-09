@@ -8,6 +8,6 @@ Bu çalışmada, Diabetic Retinopathy Debrecen veri seti üzerinde çeşitli ver
 * **Yazar:** Elif Beyza Emül
 * **Alan:** Sağlıkta Veri Madenciliği
 
-## 🛠 Kullanılan Teknolojiler & Yöntemler
+## Kullanılan Teknolojiler & Yöntemler
 * **Veri Madenciliği Yöntemleri:** Lojistik Regresyon, Naïve Bayes, Decision Tree, k-NN, Yapay Sinir Ağları (ANN) 
 * **Araçlar:** Weka
